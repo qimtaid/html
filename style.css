@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+
+}
+table, th, td {
+    border: 1px solid black;
+    align-items: center;
+
+  }
+  th {
+    font-style: oblique;
+  }
+  table{
+    align-self: auto;
+  }
+
+  nav a{
+    padding: 10px;
+    background-color: beige;
+
+  }
+  #footer {
+    display: flex;;
+    text-align: center;
+    background-color: whitesmoke;
